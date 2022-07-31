@@ -12,4 +12,7 @@ Future Ready TalentProject
 -----------------------------------------------------Web Technologies:CSS ,HTML ,JAVASCRIPT-------------------------------------------------
 
 Microsoft portal ->Storage Account->https://futurereadytalentproject.z30.web.core.windows.net/
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Github URL:https://github.com/ksairama0722/Calculator
